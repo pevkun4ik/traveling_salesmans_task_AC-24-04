@@ -6,8 +6,8 @@
 
 // сюда просто добавляются include'ы участников
 #include "Leonidova_ant.h"
-// #include "Slueva_opt2.h"
-// #include "Volkov_bb.h"
+#include "Slueva_opt2.h"
+#include "Volkov_bb.h"
 
 int main() {
 
